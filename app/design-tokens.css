@@ -1,0 +1,13 @@
+/* Design tokens — injected by Jarvis build pipeline */
+:root {
+  --color-primary: #0066FF;
+  --color-background: #0A0A0A;
+  --color-surface: #1A1A1A;
+  --color-text: #FFFFFF;
+  --color-accent: #00D4FF;
+  --font-heading: Inter, sans-serif;
+  --font-body: Inter, sans-serif;
+  --radius-card: 12px;
+  --radius-button: 8px;
+  --spacing-section: 80px;
+}
